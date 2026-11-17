@@ -1,0 +1,8 @@
+{
+  "name": "Wowo Jumpu",
+  "description": "Game lari 2D yang seru dan simpel — bantu Prabowo melompati tumpukan uang dan raih skor tertinggi!",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
